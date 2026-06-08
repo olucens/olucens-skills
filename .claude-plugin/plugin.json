@@ -1,7 +1,7 @@
 {
   "name": "olucens-skills",
   "description": "Personal curated skill collection: coding guidelines, YC startup frameworks, and career/resume tools",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": {
     "name": "olucens"
   },
@@ -9,7 +9,6 @@
   "keywords": ["guidelines", "startup", "yc", "resume", "career", "productivity"],
   "skills": [
     "./skills/olucens-code-workflow",
-    "./skills/YC-Frameworks/agi-framework-chollet",
     "./skills/YC-Frameworks/ai-accelerated-building-ng",
     "./skills/YC-Frameworks/ai-product-building-heller",
     "./skills/YC-Frameworks/ai-scaling-laws-amodei",
@@ -28,6 +27,7 @@
     "./skills/YC-Frameworks/software-paradigms-karpathy",
     "./skills/YC-Frameworks/spatial-intelligence-li",
     "./skills/YC-Frameworks/yc-startup-fundamentals",
+    "./skills/Career-and-CV/agi-framework-chollet",
     "./skills/Career-and-CV/academic-cv-builder",
     "./skills/Career-and-CV/career-changer-translator",
     "./skills/Career-and-CV/cover-letter-generator",
