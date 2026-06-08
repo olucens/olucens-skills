@@ -24,7 +24,7 @@ git clone https://github.com/olucens/olucens-skills ~/.claude/plugins/olucens-sk
 
 | Skill | Trigger |
 |-------|---------|
-| `karpathy-guidelines` | Writing, reviewing, or refactoring code — reduces LLM overcomplications |
+| `karpathy-guidelines` => `olucens-code-workflow` | Writing, reviewing, or refactoring code — reduces LLM overcomplications |
 
 ### Startup & Strategy (YC Frameworks)
 
