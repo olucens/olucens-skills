@@ -126,36 +126,39 @@ PROFESSIONAL EXPERIENCE
 
 ## Contact Information Layout
 
-### Recommended Format
+### Recommended Format (US/International)
 ```
 JOHN SMITH
 john.smith@email.com | (555) 123-4567 | linkedin.com/in/johnsmith
 San Francisco, CA
 ```
 
-### Alternative Format
+### EU/German Format
 ```
 JOHN SMITH
-San Francisco, CA
-john.smith@email.com | (555) 123-4567
-LinkedIn: linkedin.com/in/johnsmith | GitHub: github.com/johnsmith
+Musterstraße 12, 80333 München, Germany
++49 151 23456789 | john.smith@email.com
+linkedin.com/in/johnsmith | xing.com/profile/johnsmith
 ```
 
 ### What to Include
 - ✅ Full name
 - ✅ Professional email
-- ✅ Phone number
-- ✅ City, State (no full address needed)
+- ✅ Phone number (with country code if applying internationally: +49 for Germany)
+- ✅ City (+ country for international applications)
 - ✅ LinkedIn URL
 - ✅ Portfolio/GitHub (if relevant)
 
 ### What to Exclude
-- ❌ Full street address
-- ❌ Photo
-- ❌ Date of birth
-- ❌ Marital status
 - ❌ Multiple phone numbers
 - ❌ Personal social media
+
+### EU/German Market — Contact Differences
+- **Photo:** ✅ Expected in Germany and most EU countries — professional headshot is standard, not optional. Include on the first page.
+- **Full address:** More common in Germany than in the US. Include street, city, postal code, country.
+- **Date of birth:** Optional in Germany (was mandatory, now declining) — include if the job ad is traditional/corporate.
+- **Nationality / work permit:** Common in Germany for non-EU applicants — clarifies right to work.
+- **Marital status:** No longer required, but still occasionally seen in traditional German applications.
 
 ## Experience Section Formatting
 
@@ -345,6 +348,32 @@ When formatting a resume:
 [Description or example of improved formatting]
 ```
 
+## EU/German Market — Key Formatting Differences
+
+| Aspect | US Standard | EU/German Standard |
+|--------|-------------|---------------------|
+| Photo | ❌ Do not include | ✅ Expected — professional headshot |
+| Address | City, State | Full street address + postal code + country |
+| Date of birth | ❌ Never | Optional, common in traditional orgs |
+| Nationality | ❌ Never | Helpful for non-EU applicants |
+| Phone format | (555) 123-4567 | +49 151 23456789 |
+| Date format | Jan 2020 / MM/YYYY | 01/2020 or 01.2020 |
+| CV length | 1 page preferred | 2 pages standard, tabular format common |
+| Professional network | LinkedIn | LinkedIn + XING (dominant in DACH region) |
+| Document name | German: `Lebenslauf` (not "Resume") | Use "Lebenslauf" in German applications |
+
+### German Lebenslauf (Tabellarischer) Format
+
+The standard German CV is a **tabellarischer Lebenslauf** (tabular CV):
+- Two-column layout: left = dates, right = description
+- Includes professional photo (top right corner, passport-style)
+- Reverse chronological order
+- Signed and dated at the bottom: "Ort, Datum" + signature
+
+### German CV Date Format
+- Use DD.MM.YYYY for full dates, or 01/2020 for month/year
+- Avoid "Jan 2020" — use numeric format
+
 ## Quick Formatting Checklist
 
 Before submitting any resume:
@@ -353,8 +382,15 @@ Before submitting any resume:
 - ✅ Consistent formatting throughout
 - ✅ Clear section headers
 - ✅ Appropriate white space
-- ✅ No tables, text boxes, or columns
+- ✅ No tables, text boxes, or columns (US/ATS) — two-column tabular OK for German Lebenslauf
 - ✅ Contact info in body (not header)
 - ✅ Saved as .docx or .pdf
 - ✅ Proper file name
 - ✅ Proofread for consistency
+
+**Additional for EU/German applications:**
+- ✅ Professional headshot attached (Germany)
+- ✅ Full address with postal code
+- ✅ Phone number with country code (+49...)
+- ✅ XING profile linked (for DACH jobs)
+- ✅ Document titled "Lebenslauf" in German applications

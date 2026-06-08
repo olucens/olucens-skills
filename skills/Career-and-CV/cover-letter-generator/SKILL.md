@@ -261,6 +261,76 @@ When generating a cover letter, provide:
 - [Point 3]
 ```
 
+## EU/German Market — Anschreiben Format
+
+In Germany, the cover letter is called **Anschreiben** and is part of the **Bewerbungsmappe** (application package: Anschreiben + Lebenslauf + Zeugnisse).
+
+### Key Differences from US Cover Letters
+
+| Aspect | US Cover Letter | German Anschreiben |
+|--------|----------------|---------------------|
+| Salutation | "Dear Hiring Manager" | "Sehr geehrte/r Frau/Herr [Name]" |
+| Tone | Confident, personable | Formal, professional (Sie form) |
+| Length | 250-400 words | 250-350 words (one page strict) |
+| Opening | Narrative hook | State position + source directly |
+| Contact block | Top of letter | Full address block, both sender and recipient |
+| Date format | January 1, 2025 | 01.01.2025 |
+| Sign-off | "Sincerely" | "Mit freundlichen Grüßen" |
+| Salary | Rarely mentioned | Gehaltsvorstellung often expected ("Mein Gehaltswunsch beträgt...") |
+
+### German Anschreiben Structure
+
+```
+[Your Name]
+[Street, Postal Code, City]
+[Phone] | [Email]
+
+[City, DD.MM.YYYY]
+
+[Company Name]
+[Attn: Herr/Frau Name or HR Department]
+[Company Address]
+
+Betreff: Bewerbung als [Job Title] – [Job ID if available]
+
+Sehr geehrte/r Frau/Herr [Last Name],
+
+[Opening paragraph: state the position and briefly why you're interested in this company specifically]
+
+[Body paragraph 1: your most relevant experience matched to their key requirement]
+
+[Body paragraph 2: additional value, cultural fit, or address any gaps]
+
+[Closing: Gehaltsvorstellung if relevant + availability + call to action]
+
+Mit freundlichen Grüßen,
+
+[Handwritten or digital signature]
+[Your Full Name]
+
+Anlagen: Lebenslauf, Arbeitszeugnisse, Zertifikate
+```
+
+### German Anschreiben Don'ts
+- ❌ Starting with "I" — start with "Mit großem Interesse..." or name the company first
+- ❌ Too casual or use of "du" (unless the company uses "du" in their ad)
+- ❌ Omitting the "Betreff" (subject line)
+- ❌ Forgetting "Anlagen" (attachments list) at the bottom
+- ❌ Exceeding one page
+
+### Gehaltsvorstellung (Salary Expectation)
+
+Many German job postings explicitly ask for a salary expectation. Include it in the closing paragraph:
+```
+"Mein Gehaltswunsch für diese Position beträgt [X.XXX] Euro brutto pro Jahr."
+```
+
+### Bewerbungsmappe — Complete Application Package
+1. **Anschreiben** — the cover letter
+2. **Lebenslauf** — the CV (tabellarischer Lebenslauf)
+3. **Arbeitszeugnisse** — formal reference letters from previous employers
+4. **Zeugnisse/Zertifikate** — degree certificates, relevant certifications
+
 ## Quality Checklist
 
 Before delivering any cover letter:
@@ -275,3 +345,13 @@ Before delivering any cover letter:
 8. ✅ Is 250-400 words (3-4 paragraphs)
 9. ✅ Contains no typos or grammatical errors
 10. ✅ Would make you want to interview this person
+
+**Additional for German Anschreiben:**
+11. ✅ Formal Sie-form throughout
+12. ✅ Full address blocks (sender + recipient)
+13. ✅ Betreff line with job title and ID
+14. ✅ "Sehr geehrte/r Frau/Herr [Name]" salutation
+15. ✅ Salary expectation included if requested in the job posting
+16. ✅ "Anlagen" list at the bottom
+17. ✅ "Mit freundlichen Grüßen" sign-off
+18. ✅ Strict one-page length

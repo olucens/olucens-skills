@@ -132,7 +132,7 @@ Best for: Roles requiring specific proficiency, honest representation
 
 ## Experience Section
 
-### Standard Format
+### Standard Format (US/International)
 
 ```
 COMPANY NAME | City, State
@@ -141,6 +141,19 @@ Job Title | Start Date - End Date
 • Achievement bullet with metric and impact
 • Achievement bullet with metric and impact
 • Achievement bullet with metric and impact
+```
+
+### German Lebenslauf Format (Tabellarisch)
+
+```
+01/2021 – heute     Senior Software Engineer
+                    Firmenname GmbH, München
+                    • Achievement with metric and impact
+                    • Achievement with metric and impact
+
+06/2018 – 12/2020   Software Engineer
+                    Firmenname AG, Berlin
+                    • Achievement with metric and impact
 ```
 
 ### Bullet Guidelines by Career Stage
@@ -261,9 +274,10 @@ Google Analytics Certified | Google | 2023
 - Fills employment gaps meaningfully
 
 **Languages:**
-- If relevant to role/company
-- List proficiency levels accurately
-- Only if beyond basic conversational
+- **EU/Germany:** Always include — multi-language skills are highly valued
+- List German and English first for German market; then other languages
+- Use CEFR levels where relevant: A1/A2, B1/B2, C1/C2 or Native/Fluent/Professional/Conversational
+- Even beginner German shows commitment to integration — include it
 
 **Publications/Patents:**
 - Academic positions
@@ -383,6 +397,54 @@ When building resume sections:
 **Skip:** [Section name] because [reason]
 ```
 
+## EU/German Market — Section Specifics
+
+### German Lebenslauf Section Order (Standard)
+
+```
+1. Persönliche Daten (Personal Data)
+   — Name, address, phone, email, date of birth (optional), nationality (if non-EU)
+   — Professional photo top-right
+
+2. Berufserfahrung (Professional Experience)
+   — Reverse chronological, tabular (date | role | company | bullets)
+
+3. Ausbildung / Studium (Education)
+   — Degrees, institutions, thesis title if relevant
+
+4. Kenntnisse und Fähigkeiten (Skills)
+   — Languages (with CEFR or "Muttersprache"), technical skills, tools
+
+5. Zertifikate / Weiterbildungen (Certifications / Further Education)
+   — Relevant courses, certifications with dates
+
+6. Ehrenamt / Engagements (Volunteer / Extracurricular) — optional
+
+7. Unterschrift (Signature)
+   — "Ort, Datum" + handwritten or digital signature
+```
+
+### Zeugnisse (Reference Documents)
+
+German applications include **Arbeitszeugnisse** — formal reference letters from past employers. These are NOT a "References available on request" section.
+
+- Collect Arbeitszeugnis from each employer when you leave
+- They use coded language: "stets zur vollsten Zufriedenheit" = excellent; "zufriedenstellend" = mediocre
+- Submit copies as part of Bewerbungsmappe
+- List under "Anlagen" in your Anschreiben
+
+### Persönliche Daten (Personal Data) Section — Germany
+
+Unlike the US, German CVs have a dedicated personal data section:
+```
+Name:             Alexander Kuzmin
+Adresse:          Musterstraße 12, 80333 München
+Telefon:          +49 151 23456789
+E-Mail:           a.kuzmin@email.com
+Geburtsdatum:     01.01.1990 (optional)
+Staatsangehörigkeit: Russisch / EU-Aufenthaltserlaubnis (if non-EU)
+```
+
 ## Section-Building Checklist
 
 - ✅ Section order optimized for role
@@ -395,3 +457,11 @@ When building resume sections:
 - ✅ All sections support the target role
 - ✅ Nothing irrelevant or outdated included
 - ✅ Total length appropriate (1-2 pages)
+
+**Additional for German Lebenslauf:**
+- ✅ Professional photo attached
+- ✅ Persönliche Daten section complete
+- ✅ Languages listed with CEFR levels
+- ✅ Tabular format with date column on left
+- ✅ Signed and dated at bottom
+- ✅ Zeugnisse collected and ready for Bewerbungsmappe

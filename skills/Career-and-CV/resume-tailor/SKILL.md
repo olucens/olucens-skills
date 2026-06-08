@@ -303,6 +303,46 @@ When tailoring a resume, provide:
 - Estimated new match score: Z%
 ```
 
+## EU/German Market — Tailoring Context
+
+### Tailoring the Bewerbungsmappe (Application Package)
+
+In Germany, tailoring means aligning all three documents consistently:
+
+| Document | Tailoring Focus |
+|----------|----------------|
+| **Anschreiben** | Company-specific, position-specific, includes Gehaltsvorstellung |
+| **Lebenslauf** | Keywords, skills order, profile photo — mostly stable across applications |
+| **Zeugnisse** | Select the most relevant reference letters for each role |
+
+The Lebenslauf itself is tailored less aggressively than a US resume — the summary/profile section and skills order are the primary levers.
+
+### German-Specific Keyword Tailoring
+
+German job postings often list both German and English terms. Tailor to include both:
+
+```
+Job Posting Says:      "Projektmanagement / project management"
+Your Lebenslauf:       Include "Projektmanagement" in German section,
+                       "project management" if writing a bilingual CV
+```
+
+### Company Culture Signal (Startup vs. Konzern)
+
+**Startups (tech, Berlin/Munich scene):** English CV acceptable, LinkedIn-style formatting OK
+**Konzerne (Siemens, BMW, Bosch, Deutsche Bank):** German Lebenslauf expected, formal Anschreiben required
+**Mittelstand (mid-size family businesses):** Formal, German preferred, photo expected
+
+### Version Naming — German Convention
+
+```
+[Nachname]_Lebenslauf_[Position]_[Unternehmen]_[Datum].pdf
+
+Example:
+Kuzmin_Lebenslauf_SoftwareEngineer_BMW_2025-01.pdf
+Kuzmin_Anschreiben_SoftwareEngineer_BMW_2025-01.pdf
+```
+
 ## Implementation Notes
 
 - Always start with the job description analyzer
@@ -310,3 +350,9 @@ When tailoring a resume, provide:
 - Maintain master resume as source of truth
 - Never sacrifice ATS compatibility for tailoring
 - Test keyword match after tailoring
+
+**For EU/German applications:**
+- Tailor Anschreiben per application — never send a generic one
+- Lebenslauf: only profile/summary + skills order need tailoring per role
+- Collect and pre-sort Zeugnisse by relevance to role type
+- Check if the company uses German or English internally — adapt CV language accordingly

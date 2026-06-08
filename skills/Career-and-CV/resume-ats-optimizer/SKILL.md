@@ -308,6 +308,41 @@ When helping user optimize for ATS:
 9. ✅ Verify file format and naming
 10. ✅ Test with ATS simulator if possible
 
+## EU/German Market — ATS & Job Board Specifics
+
+### Major Job Boards in Germany / DACH Region
+
+| Platform | Focus | Notes |
+|----------|-------|-------|
+| **StepStone** (stepstone.de) | General, largest in Germany | Own ATS, keyword-heavy |
+| **XING Jobs** (xing.com/jobs) | Professional network + jobs | Profile-based, ATS + recruiter search |
+| **LinkedIn** (linkedin.com/jobs) | International + tech | Standard ATS behavior |
+| **Indeed.de** | Broad market | US-style ATS |
+| **Arbeitsagentur** (arbeitsagentur.de) | State employment agency | Required for some roles/visa holders |
+| **Glassdoor.de** | Company research + jobs | Less dominant than US |
+| **monster.de** | General | Declining but still used |
+
+### XING vs LinkedIn in DACH
+- **XING** is dominant in Germany, Austria, Switzerland — many mid-market and traditional companies search XING first
+- Keep both profiles up to date
+- XING profile is parsed by StepStone and other German ATS platforms
+- XING uses "Schlagworte" (keywords/tags) — include them as ATS optimization
+
+### German ATS Keyword Conventions
+- German job ads often mix German and English keywords — include both versions where relevant
+  - e.g., "Projektmanagement" AND "project management"
+  - e.g., "Softwareentwicklung" AND "software development"
+- Titles: Use both German and English forms if applying to international companies in Germany
+- Date format in resume: Use `MM/YYYY` or `MM.YYYY` — not month names in German unless writing in German
+
+### GDPR Note
+When sending applications in the EU, you may optionally add a data consent clause at the bottom of your CV:
+```
+"Ich erkläre mich damit einverstanden, dass meine Daten für Zwecke des Bewerbungsverfahrens verarbeitet werden."
+(I consent to my data being processed for the purposes of the application process.)
+```
+This is increasingly common for emailed applications in Germany.
+
 ## Success Metrics
 
 After optimization, the resume should:
@@ -317,3 +352,8 @@ After optimization, the resume should:
 - Include all critical keywords 2-4x each
 - Read naturally (not keyword-stuffed)
 - Be ready to submit immediately
+
+**Additional for EU/German applications:**
+- German AND English keyword variants included where relevant
+- XING profile keywords ("Schlagworte") aligned with CV keywords
+- GDPR consent clause added if submitting by email

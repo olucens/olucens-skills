@@ -368,3 +368,47 @@ When optimizing a LinkedIn profile:
 - Length (can be longer)
 - Keywords (broader than job-specific)
 - Call to action (add contact info)
+
+---
+
+## EU/German Market — XING as the Primary Network
+
+In **Germany, Austria, and Switzerland (DACH)**, XING is the dominant professional network alongside LinkedIn. Many German companies and recruiters search XING first.
+
+### XING vs LinkedIn — When to Use
+
+| Situation | Platform |
+|-----------|----------|
+| Applying to German/Austrian/Swiss companies | XING + LinkedIn |
+| Applying to international companies in Germany | LinkedIn primary |
+| Mid-market / traditional German companies | XING primary |
+| Tech / startup / international teams | LinkedIn primary |
+| Recruiter search visibility in DACH | Both required |
+
+### XING Profile Key Sections
+
+**Schlagworte (Keywords/Tags)**
+- XING's primary ATS mechanism — recruiters search by Schlagworte
+- Add up to 20 keywords covering your main skills and roles
+- Mirror the keywords from your Lebenslauf and job targets
+
+**Ich suche / Ich biete (I seek / I offer)**
+- XING-specific feature — fill both fields explicitly
+- "Ich suche": your next role type, industry, location
+- "Ich biete": your core value proposition and top skills
+
+**Key Differences from LinkedIn:**
+- XING is more formal by default — "Sie" culture
+- Less emphasis on personal posts/content (not a content platform)
+- Company pages and job ads are deeply integrated
+- "ProJobs" subscription unlocks full recruiter visibility
+- Profile photo is expected (same professional headshot rules)
+
+### XING Profile Quick Checklist
+- ✅ Professional photo uploaded
+- ✅ Headline: current role + specialization
+- ✅ Schlagworte: 15-20 relevant keywords
+- ✅ "Ich suche" filled with target role/location
+- ✅ Work history matches Lebenslauf exactly
+- ✅ Languages section filled
+- ✅ "Offen für Jobangebote" activated if job-seeking

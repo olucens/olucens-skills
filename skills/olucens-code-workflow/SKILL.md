@@ -1,12 +1,12 @@
 ---
-name: karpathy-guidelines
+name: olucens-code-workflow
 description: Behavioral guidelines to reduce common LLM coding mistakes. Use when writing, reviewing, or refactoring code to avoid overcomplication, make surgical changes, surface assumptions, and define verifiable success criteria.
 license: MIT
 ---
 
-# Karpathy Guidelines
+# Olucens Code Workflow
 
-Behavioral guidelines to reduce common LLM coding mistakes, derived from [Andrej Karpathy's observations](https://x.com/karpathy/status/2015883857489522876) on LLM coding pitfalls.
+Behavioral guidelines to reduce common LLM coding mistakes. Specific workflow combines personal requirements and Andrej Karpathy's guidelines.
 
 **Tradeoff:** These guidelines bias toward caution over speed. For trivial tasks, use judgment.
 
@@ -29,6 +29,8 @@ Before implementing:
 - No "flexibility" or "configurability" that wasn't requested.
 - No error handling for impossible scenarios.
 - If you write 200 lines and it could be 50, rewrite it.
+- Atomicity in implementation: each function or block should do exactly one thing.
+- When writing new code, reuse existing functions rather than duplicating logic. Don't refactor existing code to create abstractions unless asked — that is Section 3's domain.
 
 Ask yourself: "Would a senior engineer say this is overcomplicated?" If yes, simplify.
 

@@ -12,7 +12,7 @@
     {
       "name": "olucens-skills",
       "source": "./",
-      "description": "40 curated skills: Karpathy coding guidelines, 19 YC founder frameworks, 20 career/resume tools",
+      "description": "40 curated skills: Coding guidelines, 19 YC founder frameworks, 20 career/resume tools",
       "version": "1.0.0",
       "author": {
         "name": "olucens"
