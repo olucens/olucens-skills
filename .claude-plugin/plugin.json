@@ -5,8 +5,6 @@
   "author": {
     "name": "olucens"
   },
-  "license": "MIT",
-  "keywords": ["guidelines", "startup", "yc", "resume", "career", "productivity"],
   "skills": [
     "./skills/olucens-code-workflow",
     "./skills/YC-Frameworks/ai-accelerated-building-ng",
